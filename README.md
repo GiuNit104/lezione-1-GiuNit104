@@ -10,7 +10,7 @@ Prepariamo ad esempio l'ambiente per risolvere il problema "Fossili"
 
 **Prima ancora di leggere e comprendere il problema**, prepariamo l'ambiente di sviluppo.
 ### Prepariamo l'ambiente
-- Dalla pagina del problema "Antichi fossili", scaricare il template python "fossili.py" nella cartella principale di questo progetto.
+- Dalla pagina del problema "Antichi fossili", scaricare il template python "fossili.py" nella cartella principale di questo progetto. 
 - Aprire fossili.py
 - Attivare le righe relative a sys.stdin e sys.stdout (eliminare il commento '#')
 - Modificare "input.txt" --> "fossili_input01.txt"
